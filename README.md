@@ -44,12 +44,8 @@ As the rightful ruler of Altheria, you must **gather loyal allies, fight through
 3. **Upgrade weapons & abilities** to prepare for the final showdown.  
 4. **Defeat the tyrant king** and reclaim the throne of Altheria!  
 
----
 
-## 📌 Stay Connected  
-🔹 **GitHub Repository:** [Your Repo Link]  
-🔹 **Follow for Updates:** [Your Social Media or Discord Link]  
 
----
+https://github.com/user-attachments/assets/2bdd8d19-bd88-49c5-918f-044f13692fc2
 
-Would you like any additional details, such as game mechanics, controls, or installation instructions? 😊  
+
